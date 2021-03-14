@@ -41,30 +41,30 @@ rtsp://127.0.0.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:0, tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/disney_channel.png" group-title="",Disney Channel
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014
-#EXTINF:0,DMAX
+#EXTINF:0, tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" group-title="",DMAX
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296
-#EXTINF:0,ANIXE+
+#EXTINF:0, tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/anixe_sd.png" group-title="",ANIXE+
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1001,1002,1006
-#EXTINF:0,VOXup
+#EXTINF:0, tvg-id="VOXup" tvg-name="VOXup" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/voxup.png" group-title="",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,814,1305,1306,1307
-#EXTINF:0,SAT.1 Gold
+#EXTINF:0, tvg-id="SAT.1 Gold" tvg-name="SAT.1 Gold" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/sat1gold.png" group-title="",SAT.1 Gold
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,2431,2432,2434,2436
-#EXTINF:0,N24 Doku
+#EXTINF:0, tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/n24_doku.png" group-title="",N24 Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1471,1472,1474
-#EXTINF:0,kabel eins Doku
+#EXTINF:0, tvg-id="kabel eins Doku" tvg-name="kabel eins Doku" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins_doku.png" group-title="",kabel eins Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,1511,1512,1514,1516
-#EXTINF:0,MTV
+#EXTINF:0, tvg-id="MTV" tvg-name="MTV" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/mtv.png" group-title="",MTV
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,421,422,426
-#EXTINF:0,WELT
+#EXTINF:0, tvg-id="WELT" tvg-name="WELT" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/welt.png" group-title="",WELT
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2801,2802,2804
-#EXTINF:0,n-tv
+#EXTINF:0, tvg-id="n-tv" tvg-name="n-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" group-title="",n-tv
 #EXTVLCOPT:network-caching=1000
 rtsp://127.0.0.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,1901,1902,1903,1904,1906,1907,1908
