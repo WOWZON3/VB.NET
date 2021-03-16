@@ -1,4 +1,3 @@
-// Beginn des Skriptes (Wofuer?)
 @echo off
 Title Auswahlmenu Skript
 Color 0B
@@ -6,7 +5,6 @@ echo.
 echo Start-Skript für alle auf diesem liegenden Server
 pause
 
-// Mittelteil mit Auswahlmenu
 :Auswahlmenu
 cls
 echo.
@@ -38,8 +36,6 @@ if %asw%==5 goto Option5
 if %asw%==6 goto Option6
 if %asw%==ende goto END
 goto END
-
-// Ende des Skripts
 
 :Option1
 cls
