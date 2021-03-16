@@ -50,7 +50,7 @@ echo.
 pause
 goto Auswahlmenu
 
-:Server2
+:Option2
 cls
 echo.
 echo CheckOut SourceCode MaNGOS Zero (Database)
@@ -59,7 +59,7 @@ echo.
 pause
 goto Auswahlmenu
 
-:Server3
+:Option3
 cls
 echo.
 echo CheckOut SourceCode MaNGOS Zero (Eluna)
@@ -68,7 +68,7 @@ echo.
 pause
 goto Auswahlmenu
 
-:Server4
+:Option4
 cls
 echo.
 echo CheckOut SourceCode TrinityCore (Branch 3.3.5)
@@ -77,7 +77,7 @@ echo.
 pause
 goto Auswahlmenu
 
-:Server5
+:Option5
 cls
 echo.
 echo CheckOut SourceCode FusionCMS (Installer)
@@ -86,7 +86,7 @@ echo.
 pause
 goto Auswahlmenu
 
-:Server6
+:Option6
 cls
 echo.
 echo CheckOut SourceCode FusionCMS (Module & Themes)
@@ -97,5 +97,5 @@ goto END
 
 :END
 echo.
-echo Alle Server heruntergefahren
+echo Alle Aufgaben wurden erfolgreich abgearbeitet.
 pause
