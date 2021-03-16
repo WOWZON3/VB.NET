@@ -1,7 +1,8 @@
 <div align="center"><img src="https://raw.githubusercontent.com/WOWZON3/VB.NET/main/Docs/images/Logo.png"></img></div>
 <br>
 <br>
-Mittlerweile sind noch die Projekte <b>Batch Scripte</b> und <b>WGET</b> dazu gekommen. Der Sinn dieser Repository liegt eigentlich darin, dass was man sich jedesmal Mühselig im Internet zusammen suchen musste wenn mal wieder der Bedarf da war, an einem Ort verfügbar zu machen.
+Mittlerweile sind noch die Projekte <b>Batch Scripte</b> und <b>WGET</b> dazu gekommen. Der Sinn dieser Repository liegt eigentlich darin, dass was man sich jedesmal Mühselig im Internet zusammen suchen musste wenn mal wieder der Bedarf da war, an einem Ort verfügbar zu machen. Vermutlich können damit auch andere Nutzer etwas anfangen.
+<br>
 <br>
 <h3>Projekte</h3>
 <br>
