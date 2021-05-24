@@ -1,0 +1,29 @@
+@echo off
+Title HTML5 Browser Games
+Color 09
+echo.
+echo.
+echo Lade nun den Quellcode der Spiele von Github.com herunter.
+echo Dies kann je nach Bandbreite einige Zeit in anspruch nehmen.
+echo Wenn alle Dateien geladen sind wird sich dieses Fenster schliessen.
+echo.
+git clone --recursive https://github.com/edopedia/PixelDefense.git
+git clone --recursive https://github.com/BKcore/HexGL.git
+git clone --recursive https://github.com/mimshwright/mimstris.git
+git clone --recursive https://github.com/mozilla/BrowserQuest.git
+git clone --recursive https://github.com/mgechev/mk.js.git
+git clone --recursive https://github.com/wwwtyro/Astray.git
+git clone --recursive https://github.com/adityaravishankar/last-colony.git
+git clone --recursive https://github.com/jakesgordon/javascript-racer.git
+git clone --recursive https://github.com/platzhersh/pacman-canvas.git
+git clone --recursive https://github.com/FreezingMoon/AncientBeast.git
+git clone --recursive https://github.com/Adam13531/OpHog.git
+git clone --recursive https://github.com/StrykerKKD/SpaceInvaders.git
+git clone --recursive https://github.com/javierbyte/clashjs.git
+git clone --recursive https://github.com/cshepp/candyjam.git
+git clone --recursive https://github.com/mitallast/diablo-js.git
+git clone --recursive https://github.com/MattSurabian/DuckHunt-JS.git
+git clone --recursive https://github.com/robertkleffner/mariohtml5.git
+git clone --recursive https://github.com/ytiurin/tetris.git
+git clone --recursive https://github.com/zengm-games/zengm.git
+git clone --recursive https://github.com/yongbin999/impactjs_game.git
